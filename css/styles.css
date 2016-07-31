@@ -57,6 +57,7 @@
 body {
   background-color: #fff;
   padding:50px;
+  padding-right:700px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
@@ -224,8 +225,10 @@ header ul a strong {
 }
 
 section {
-  width:500px;
-  float:right;
+  width:600px;
+  float:left;
+  padding-left:150px;
+  margin-left:150px;
   padding-bottom:50px;
 }
 
